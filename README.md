@@ -1,6 +1,6 @@
 # Overview
 The object of this project is to follow a design guide and use assets provided to clone a website using React and Styled components. 
-[Live Demo 👉](https://main--transcendent-marzipan-da48af.netlify.app/)
+[Live Demo](https://main--transcendent-marzipan-da48af.netlify.app/)
 
 ## Features
 mobile responsive
