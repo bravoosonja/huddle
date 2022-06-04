@@ -6,7 +6,7 @@ The object of this project is to follow a design guide and use assets provided t
 mobile responsive
 
 # Screenshot
-![](./demo.png)
+![](/public/images/demo.png)
 
 # Skills used
 - React
