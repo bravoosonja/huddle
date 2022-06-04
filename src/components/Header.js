@@ -8,7 +8,7 @@ export default function Header() {
     <StyledHeader>
       <Container>
         <Nav>
-          <Logo src="./images/logo.svg" alt="" />
+          <Logo src="./images/logo.svg" />
           <Button>Try It Free</Button>
         </Nav>
         <Flex>
@@ -23,7 +23,7 @@ export default function Header() {
               Get Started For Free
             </Button>
           </div>
-          <Image src="./images/illustration-mockups.svg" alt="" />
+          <Image src="./images/illustration-mockups.svg" />
         </Flex>
       </Container>
     </StyledHeader>
