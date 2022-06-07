@@ -4,7 +4,7 @@ The object of this project is to follow a design guide and use assets provided t
 ## Demo
 [Live Demo](https://main--transcendent-marzipan-da48af.netlify.app/)
 
-![demo](/public/demo.gif)
+![demo](public/huddle.gif)
 ## Features
 - mobile responsive
 
